@@ -1,0 +1,35 @@
+body, html {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	font-family: 'Fahkwang', sans-serif;
+
+
+}
+
+header.land {
+	background-position: center;
+	background: linear-gradient(to top, rgba(83, 105, 118,0.3), rgba(41, 46, 73,0.4)), url(bg.jpg);;
+	background-size: cover;
+	height: 100%;
+
+}
+
+h1.main {
+	color: yellow;
+
+}
+
+h1.uppercase {
+	margin-buttom: 100px;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+	}
+
+.btn {
+	border-radius: 300px;
+}
